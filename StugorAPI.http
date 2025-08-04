@@ -1,0 +1,6 @@
+@StugorAPI_HostAddress = http://localhost:5155
+
+GET {{StugorAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
