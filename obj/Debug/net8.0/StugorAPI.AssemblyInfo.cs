@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StugorAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f8b69c8964f0426dde9274f69bc7ec17b1e92d3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88fdd2a095863842f6a16f415850d963dd0b8f52")]
 [assembly: System.Reflection.AssemblyProductAttribute("StugorAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StugorAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
