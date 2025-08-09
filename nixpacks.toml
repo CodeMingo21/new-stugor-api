@@ -2,7 +2,7 @@
 nixPkgs = ['dotnet-sdk_8']
 
 [phases.build]
-cmds = ['dotnet build']
+cmds = ['dotnet publish -c Release -o out']
 
 [phases.start]
-cmd = 'dotnet run --project StugorAPI.csproj'
+cmd = 'dotnet out/StugorAPI.dll'
